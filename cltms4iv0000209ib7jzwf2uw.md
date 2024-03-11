@@ -18,14 +18,17 @@ slug: ordinary-stars
     
 * 则根本没有必要望见。
     
+
+---
+
 * I can reach only few,
     
-    “Ordinary stars” in front of me;
+* “Ordinary stars” in front of me;
     
-    It is the lamp, the fire,
+* It is the lamp, the fire,
     
-    Longs to dance.
+* Longs to dance.
     
-    Thing that far-off blurred vision,
+* Thing that far-off blurred vision,
     
-    There is no need to see it at all.
+* There is no need to see it at all.

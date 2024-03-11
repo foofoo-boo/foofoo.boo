@@ -6,17 +6,26 @@ slug: ordinary-stars
 
 ---
 
-
-我能够企及的只有，
-眼前的那几颗“凡星”;
-是渴望跃动着的，
-灯、火。
-那遥远模糊视线的东西，
-则根本没有必要望见。
-
-- I can reach only few,
-- “Ordinary stars” in front of me;
-- It is the lamp, the fire,
-- Longs to dance.
-- Thing that far-off blurred vision,
-- There is no need to see it at all.
+* 我能够企及的只有，
+    
+    眼前的那几颗“凡星”;
+    
+    是渴望跃动着的，
+    
+    灯、火。
+    
+    那遥远模糊视线的东西，
+    
+    则根本没有必要望见。
+    
+* I can reach only few,
+    
+    “Ordinary stars” in front of me;
+    
+    It is the lamp, the fire,
+    
+    Longs to dance.
+    
+    Thing that far-off blurred vision,
+    
+    There is no need to see it at all.

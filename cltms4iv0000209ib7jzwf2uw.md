@@ -17,7 +17,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1710257723135/83253ae
     
 * 那遥远模糊视线的东西，
     
-* 则根本没有必要望见。
+* 根本没有必要望见。
     
 
 ---

@@ -1,8 +1,8 @@
 ---
-title: "春日｜Day of Spring"
+title: "春日｜Days of Spring"
 datePublished: Sun Jan 01 2012 04:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cltpje79q000209js7vp8dv1t
-slug: day-of-spring
+slug: days-of-spring
 
 ---
 

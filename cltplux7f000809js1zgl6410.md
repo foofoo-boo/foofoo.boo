@@ -39,4 +39,4 @@ slug: yuquan-dishuiyan
     
 * Drizzle slowly ceases,
     
-* Drops, linger on rock.
+* Droplets, linger on rock.

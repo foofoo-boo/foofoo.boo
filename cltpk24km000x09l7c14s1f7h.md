@@ -16,11 +16,11 @@ slug: white-cloud-blue-sky
     
 * 蓝天算是明媚的了，
     
-* 也有害怕黑夜的时候，
+* 也有害怕黑夜的时候；
     
 * 他那毕竟还不是太阳，
     
-* 足够燃烧不了自己……
+* 没法足够燃烧自己……
     
 
 ---
@@ -35,8 +35,8 @@ slug: white-cloud-blue-sky
     
 * The blue sky is bright,
     
-* There are also times afraid of dark night,
+* There are also times afraid of dark night;
     
-* After all, he is not the sun,
+* He is not the sun after all,
     
-* Not enough to burn himself out...
+* Unable to burn enough on his own...

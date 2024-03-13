@@ -13,6 +13,6 @@ slug: panzhihua-university
 
 ---
 
-* Climb up high to hear the wind chanting;
+* Climb up high, hear the wind chanting;
     
-* Integrate in river to flow water smoothly.
+* Integrate in river, flow water smoothly.

@@ -1,5 +1,7 @@
 ---
 title: "那些灰色，无比艰难的日子"
+seoTitle: "灰色，无比艰难的日子"
+seoDescription: "勇敢直面所有困境、诉诸法律、不惧一切势力，等一系列在心理上的巨大调整。直至成功过渡到，“心有余力且足”的阶段"
 datePublished: Mon Mar 04 2024 04:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cltuxbfnt000309l5acf00fbx
 slug: those-grey-incredibly-difficult-days

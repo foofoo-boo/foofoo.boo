@@ -10,7 +10,7 @@ slug: the-dusk-the-dawn
     
 * 腐小的残埃 / 内心龌龊的人儿；
     
-* 趁那黄昏 / 黎明，
+* 趁那黄昏 / 黎明
     
 * 还未来临 / 来临了啊，
     
@@ -23,8 +23,8 @@ slug: the-dusk-the-dawn
     
 * You rotten residual ashes / You people hearts with dirty;
     
-* Before the dusk / the dawn,
+* Before the dusk / the dawn
     
-* Hasn’t come / come yet,
+* Has yet to come / come,
     
 * Purge my soul.

@@ -23,4 +23,4 @@ slug: spittle
     
 * And downward gushing,
     
-* water column.
+* Water column.

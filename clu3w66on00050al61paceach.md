@@ -3,7 +3,7 @@ title: "梦醒时分｜Time of awakening"
 datePublished: Thu Jan 01 2015 04:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clu3w66on00050al61paceach
 slug: time-of-awakening
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1711528554518/a234b83d-23de-44e9-b516-fb7590efd64d.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1711530603907/deb54e9c-d162-4c53-96b2-422ee0464d8c.png
 
 ---
 

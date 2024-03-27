@@ -3,7 +3,7 @@ title: "凡星｜Ordinary stars"
 datePublished: Wed Sep 15 2010 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cltms4iv0000209ib7jzwf2uw
 slug: ordinary-stars
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1710257723135/83253ae4-c1f8-4888-b2b7-0be307b2a6c1.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1711521085348/8853c7e1-cfc9-40fd-9dbb-557dd0289624.jpeg
 
 ---
 

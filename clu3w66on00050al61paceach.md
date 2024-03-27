@@ -7,6 +7,6 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1711530603907/deb54e9
 
 ---
 
-最后，在梦里，与开始并不喜欢的人，一起生活，梦就醒了。
+最后，在梦里，与起初并不喜欢的人，一起生活，梦就醒了。
 
 * Finally, in the dream, living with someone didn’t like initially, then the dream is woken up.

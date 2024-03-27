@@ -3,6 +3,7 @@ title: "跨越山海的奖励｜Reward for crossing the Mountains and Seas"
 datePublished: Fri Feb 16 2024 16:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cltmmou59001509jvb0px5siz
 slug: reward-for-crossing-the-mountains-and-seas
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1711533847053/6fc8f035-eaf3-437c-a5ad-1187545b5801.png
 
 ---
 
